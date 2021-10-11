@@ -1,6 +1,9 @@
-# Discord-bot-music-Jn
-Discord bot music bot by Jn | บอทดิสคอสที่มีภาษาไทยและ english 
+สวัสดีครับคนดูทุกคนผม JN นะครับ
 
-replit : https://replit.com/@JeanNetis/Jn-music?v=1
+การติดตั่งบอทอยู่ในวีดีโอนะครับแต่ถ้าหากไม่อยากดูวีดีโอก็ทำตามนี้นะครับ
 
-กดติดตาม กดไลค์ ให้ด้วยนะครับผม ! YT : jn_world | twiter : jean_netis | ig : jean_netis
+1.ทำตาม config.json
+
+2.run bot
+
+โค้ดนี้แก้ไขจาก Evo bot นะครับแต่แก้แบบเยอะมากเป็นบอกภาษา ENG นะครับ
